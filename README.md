@@ -82,7 +82,3 @@ Bu durum, veri setinin küçük ve dengesiz olmasından kaynaklanmaktadır.
 Bu çalışma, okuma performansını etkileyen faktörlerin makine öğrenmesi ile analiz edilebileceğini göstermektedir. Daha dengeli ve büyük bir veri seti ile model başarımı artırılabilir.
 
 ---
-
-## Not
-
-Bu proje bir **ders kapsamında** hazırlanmıştır ve eğitim amaçlıdır.
